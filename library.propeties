@@ -1,0 +1,9 @@
+name=ESP8266Mapid
+version=1.0
+author=Obing
+maintainer=Obing
+sentence= Cara mudah akses sever MAPID
+paragraph= Teknik Elektronika SMK Gajah Mada Banyuwangi
+category=Communication
+url=https://github.com/Elka68/ESP8266Mapid/
+architectures=ESP8266
