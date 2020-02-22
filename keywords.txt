@@ -1,0 +1,3 @@
+koneksiWifi KEYWORD1
+readMapid KEYWORD2
+sendMapid KEYWORD2
