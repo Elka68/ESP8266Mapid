@@ -2,12 +2,8 @@
 
 int sensor1,sensor2,sensor3;
 String keyPost = "isi_keyPost_Mapid";
-String keyGet  = "isi_keyGet_Mapid";
-String getUrl= "http://api.mapid.io/api/request?key="
-                + keyGet; 
 
 void setup() {
-  Serial.begin(9600);
   koneksiWifi("SSID","PASSWORD");
 }
  
